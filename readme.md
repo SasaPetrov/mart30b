@@ -1,5 +1,5 @@
 # hello-world
-Hello World repository for Git tutorial MART30
+Hello World repository for Git tutorial MART30 opeeet MART30, ali B
 This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial. 
